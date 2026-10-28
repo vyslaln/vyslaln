@@ -18,7 +18,8 @@ I'm working toward becoming a frontend developer and learning by building real p
 
 ### Projects
 
-- **Bit & Beyin**: a Turkish learning portal about AI, software and technology, built with HTML, Tailwind CSS and vanilla JavaScript. Live: [bit-beyin.vercel.app](https://bit-beyin.vercel.app)
+- **[Bit & Beyin](https://github.com/vyslaln/bit-brain)**: a Turkish learning portal about AI, software and technology, built with HTML, Tailwind CSS and vanilla JavaScript. Live: [bit-beyin.vercel.app](https://bit-beyin.vercel.app)
+- **[OyunVerse](https://github.com/vyslaln/OyunVerse)**: a website for gamers and esports players where you can follow tournaments, sign up for them and shop, built with HTML, CSS and vanilla JavaScript
 - **[shoes-ecommerce](https://github.com/vyslaln/shoes-ecommerce)**: a multi-page shoe store with cart, favorites and theme switching, built with HTML, CSS, Bootstrap and vanilla JavaScript
 
 ### What's next
