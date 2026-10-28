@@ -1,26 +1,59 @@
-# Hi there, I'm Veysel 👋
+<h1 align="center">Hi, I'm Veysel</h1>
 
-### 🚀 About Me
-I'm an aspiring **Front-End Developer** focused on building clean, responsive, and user-friendly web applications. I enjoy turning complex ideas into practical digital solutions.
+<p align="center">
+Frontend Developer in progress · HTML · CSS · JavaScript
+</p>
 
-- 🔭 Currently working on: **Front-End Fundamentals (HTML, CSS, JavaScript) & Git Workflows**
-- 📚 Learning: **Modern JavaScript (ES6+), Responsive Design & Tailwind CSS**
-- 🛠️ Tools & Tech: **VS Code, Git Bash, GitHub**
-- 🎯 Goal: **Building a strong portfolio and transitioning into a Junior Front-End Developer role**
+<p align="center">
+<a href="#english">English</a> · <a href="#türkçe">Türkçe</a>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40"/>&nbsp;
+</p>
+
+## English
+
+I'm working toward becoming a frontend developer and learning by building real projects.
+
+### Projects
+
+- **Bit & Beyin**: a Turkish learning portal about AI, software and technology, built with HTML, Tailwind CSS and vanilla JavaScript. Live: [bit-beyin.vercel.app](https://bit-beyin.vercel.app)
+- **[shoes-ecommerce](https://github.com/vyslaln/shoes-ecommerce)**: a multi-page shoe store with cart, favorites and theme switching, built with HTML, CSS, Bootstrap and vanilla JavaScript
+
+### What's next
+
+React, once Bit & Beyin is finished. Longer term, I want to become a full stack developer.
+
+### How I work
+
+I use Git the way teams do: a branch and a pull request for every change.
+
+## Türkçe
+
+Frontend developer olma yolunda ilerliyorum ve gerçek projeler yaparak öğreniyorum.
+
+### Projeler
+
+- **Bit & Beyin**: Yapay zekâ, yazılım ve teknoloji üzerine Türkçe bir öğrenme portalı. HTML, Tailwind CSS ve saf JavaScript ile geliştiriyorum. Canlı: [bit-beyin.vercel.app](https://bit-beyin.vercel.app)
+- **[shoes-ecommerce](https://github.com/vyslaln/shoes-ecommerce)**: Sepet, favoriler ve tema değiştirme özellikleri olan çok sayfalı bir ayakkabı mağazası. HTML, CSS, Bootstrap ve saf JavaScript ile yapıldı.
+
+### Sırada ne var
+
+Bit & Beyin bitince React. Daha uzun vadede fullstack developer olmak istiyorum.
+
+### Nasıl çalışıyorum
+
+Git'i ekiplerin kullandığı gibi kullanıyorum: Her değişiklik için bir branch ve bir pull request açıyorum.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-![Veysel's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyslaln&show_icons=true&theme=radial)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veyselalan-dev/))
+<p align="center">
+<a href="https://www.linkedin.com/in/veyselalan-dev/">LinkedIn</a>
+</p>
